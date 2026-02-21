@@ -1,0 +1,3 @@
+/Users/vlados/Desktop/UTM/Anu I/Structuri de Date si Algoritmi/SDA Seminar/cmake-build-debug/CMakeFiles/SDA_Seminar.dir
+/Users/vlados/Desktop/UTM/Anu I/Structuri de Date si Algoritmi/SDA Seminar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vlados/Desktop/UTM/Anu I/Structuri de Date si Algoritmi/SDA Seminar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
